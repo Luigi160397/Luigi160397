@@ -1,5 +1,6 @@
 
-![banner](https://github.com/Luigi160397/Luigi160397/assets/123403688/e6155904-5786-4f76-8e97-545f181f0be1)
+![banner](https://github.com/Luigi160397/Luigi160397/assets/123403688/93f4c58a-3fb0-4552-86fc-d4413d0abbd9)
+
 
 # Ciao! 👋
 
