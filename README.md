@@ -23,7 +23,7 @@ Sono un 🌐 Web Developer Back-end 🚀 appassionato di creare esperienze digit
 
 📫 Come raggiungermi:
 - 📧 Email: luigi.difraia.97@gmail.com
-- 👥 LinkedIn: [Luigi Di Fraia su LinkedIn](https://www.linkedin.com/in/luigi-di-fraia-full-stack-developer/)
+- 👥 LinkedIn: [Luigi Di Fraia su LinkedIn](https://www.linkedin.com/in/luigi-di-fraia-web-developer/)
 - 🐙 GitHub: [Luigi Di Fraia su GitHub](https://github.com/Luigi160397)
 - 📒 Portfolio: [Portfolio](https://portfolio-luigi-di-fraia.vercel.app/)
 
