@@ -6,7 +6,7 @@
 
 # Ciao! 👋
 
-Sono un 🌐 Web Developer Full Stack 🚀 appassionato di creare esperienze digitali coinvolgenti e di alta qualità.
+Sono un 🌐 Web Developer Back-end 🚀 appassionato di creare esperienze digitali coinvolgenti e di alta qualità.
 
 👨‍💻 Competenze:
 - Front-end: HTML, CSS, JavaScript, Sass, React
