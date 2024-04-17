@@ -9,9 +9,11 @@
 Sono un 🌐 Web Developer Back-end 🚀 appassionato di creare esperienze digitali coinvolgenti e di alta qualità.
 
 👨‍💻 Competenze:
-- Front-end: HTML, CSS, JavaScript, Sass, React
-- Back-end: Java, Spring Boot
-- Database: PostgreSQL
+- HTML, CSS, JavaScript, Sass, React
+- Java, Spring Boot
+- PostgreSQL, MySQL
+- Docker
+- Postman
 
 💡 Mi piace:
 - Sviluppare applicazioni web intuitive e user-friendly
